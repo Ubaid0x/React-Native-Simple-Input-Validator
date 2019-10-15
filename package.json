@@ -1,0 +1,25 @@
+{
+  "name": "react-native-simple-input-validator",
+  "version": "1.0.0",
+  "description": "Simple input validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ubaid0x/React-Native-Simple-Input-Validator.git"
+  },
+  "keywords": [
+    "react-native",
+    "input",
+    "validator",
+    "simple-input"
+  ],
+  "author": "Ubaid Iqbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ubaid0x/React-Native-Simple-Input-Validator/issues"
+  },
+  "homepage": "https://github.com/Ubaid0x/React-Native-Simple-Input-Validator#readme"
+}
